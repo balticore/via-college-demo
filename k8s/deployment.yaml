@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world-container
-        image: dkedgpet/hello-world:latest
+        image: <USERNAME>/hello-world:latest
         ports:
         - containerPort: 5000
